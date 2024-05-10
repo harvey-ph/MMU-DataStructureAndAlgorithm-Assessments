@@ -1,0 +1,10 @@
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\bin\Debug\Assessment_1.exe.config
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\bin\Debug\Assessment_1.exe
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\bin\Debug\Assessment_1.pdb
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csproj.AssemblyReference.cache
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.Form1.resources
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.Properties.Resources.resources
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csproj.GenerateResource.cache
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csproj.CoreCompileInputs.cache
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.exe
+D:\ClassWork\DataStructuresAndAlgorithms\Assessment\Assessment_1\Assessment_1\obj\Debug\Assessment_1.pdb
